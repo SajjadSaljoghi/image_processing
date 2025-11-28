@@ -7,6 +7,6 @@ You can see the sections of this repository below:
 | Section Name | Count of Project |
 | ------------ | ----- |
 | assignment-26 | 6 |
-| assignment-26 | 3 |
+| assignment-27 | 3 |
 
 you can see details in each Section . so go there . 
