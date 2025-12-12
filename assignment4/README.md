@@ -66,22 +66,22 @@ cd ..
 ## Result
 
 ### Animal Face
-![Animal Face](AnimalFace\output\animal_face.jpg)
+![Animal Face](AnimalFace/output/animal_face.jpg)
 
 ### Background Estimation
-![Background Estimation](BackgroundEstimation\output\background.png)
+![Background Estimation](BackgroundEstimation/output/background.png)
 
 ### Black Hole
-![Black Hole](BlackHole\output\result.jpg)
+![Black Hole](BlackHole/output/result.jpg)
 
 ### Face Morphing
-![Face Morphing](FaceMorphing\output\Face_Morphing.jpg)
+![Face Morphing](FaceMorphing/output/Face_Morphing.jpg)
 
 ### Find Secret Text
-![Find Secret Text](FindSecretText\output\result.jpg)
+![Find Secret Text](FindSecretText/output/result.jpg)
 
 ### Sketch Image
-![Sketch Image](SketchImage\output\result.jpg)
+![Sketch Image](SketchImage/output/result.jpg)
 
 ### Virtual Decoration
-![Virtual Decoration](VirtualDecoration\output\result.jpg)
+![Virtual Decoration](VirtualDecoration/output/result.jpg)

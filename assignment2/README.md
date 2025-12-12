@@ -40,10 +40,10 @@ cd ..
 ## Result
 
 ### Batman Logo
-![Batman Logo](Batman_Logo\output\batman-logo.jpg)
+![Batman Logo](Batman_Logo/output/batman-logo.jpg)
 
 ### Snow Landscape
-![Snow Landscape](Snow_Landscape\output\snow_landscape.gif)
+![Snow Landscape](Snow_Landscape/output/snow_landscape.gif)
 
 ### TV Noise
-![TV Noise](TV_Noise\output\tv_noise.gif)
+![TV Noise](TV_Noise/output/tv_noise.gif)

@@ -43,14 +43,14 @@ cd ..
 ## Result
 
 ### Draw Football Pitch
-![Draw Football Pitch](DrawFootballPitch\output\FootballPitch.jpg)
+![Draw Football Pitch](DrawFootballPitch/output/FootballPitch.jpg)
 
 ### Face Filters
-![Face Filters 1](FaceFilters\output\emoji.jpg)
-![Face Filters 2](FaceFilters\output\chessboard_woman.jpg)
-![Face Filters 3](FaceFilters\output\mirrored_woman.jpg)
-![Face Filters 4](FaceFilters\output\tiger_woman.jpg)
+![Face Filters 1](FaceFilters/output/emoji.jpg)
+![Face Filters 2](FaceFilters/output/chessboard_woman.jpg)
+![Face Filters 3](FaceFilters/output/mirrored_woman.jpg)
+![Face Filters 4](FaceFilters/output/tiger_woman.jpg)
 
 ### Find Cats
-![Find Cats 1](FindCats\output\cat1.jpg)
-![Find Cats 2](FindCats\output\cat2.jpg)
+![Find Cats 1](FindCats/output/cat1.jpg)
+![Find Cats 2](FindCats/output/cat2.jpg)
