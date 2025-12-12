@@ -75,7 +75,7 @@ cd ..
 ![Black Hole](BlackHole/output/result.jpg)
 
 ### Face Morphing
-![Face Morphing](FaceMorphing/output/Face_Morphing.jpg)
+![Face Morphing](FaceMorphing/output/face_morphing.jpg)
 
 ### Find Secret Text
 ![Find Secret Text](FindSecretText/output/result.jpg)
