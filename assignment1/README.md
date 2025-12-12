@@ -52,19 +52,19 @@ cd ..
 ## Result
 
 ### Chess Board
-![Chess Board](Chess_Board\output\chess-board.jpg)
+![Chess Board](Chess_Board/output/chess-board.jpg)
 
 ### Create S Letter
-![Create S Letter](Create_S_Letter\output\first_letter_my_name.jpg)
+![Create S Letter](Create_S_Letter/output/first_letter_my_name.jpg)
 
 ### Death Symbol
-![Death Symbol](Death_Symbol\output\death_Graham_Bell.jpg)
+![Death Symbol](Death_Symbol/output/death_Graham_Bell.jpg)
 
 ### Grayscale Gradiant
-![Grayscale Gradiant](Grayscale_Gradiant\output\gradiant_image.jpg)
+![Grayscale Gradiant](Grayscale_Gradiant/output/gradiant_image.jpg)
 
 ### Image Inversion
-![Image Inversion](Image_Inversion\output\woman.jpg)
+![Image Inversion](Image_Inversion/output/woman.jpg)
 
 ### Image Rotation
-![Image Rotation](Image_Rotation\output\rotate.jpg)
+![Image Rotation](Image_Rotation/output/rotate.jpg)
