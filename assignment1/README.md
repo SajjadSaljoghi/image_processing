@@ -55,7 +55,7 @@ cd ..
 ![Chess Board](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Chess_Board/output/chess-board.jpg)
 
 ### Create S Letter
-![Create S Letter](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Create_S_Letter\output\first_letter_my_name.jpg)
+![Create S Letter](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Create_S_Letter/output/first_letter_my_name.jpg)
 
 ### Death Symbol
 ![Death Symbol](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Death_Symbol\output\death_Graham_Bell.jpg)
