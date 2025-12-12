@@ -55,16 +55,16 @@ cd ..
 ![Chess Board](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Chess_Board/output/chess-board.jpg)
 
 ### Create S Letter
-![Create S Letter](Create_S_Letter\output\first_letter_my_name.jpg)
+![Create S Letter](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Create_S_Letter\output\first_letter_my_name.jpg)
 
 ### Death Symbol
-![Death Symbol](Death_Symbol\output\death_Graham_Bell.jpg)
+![Death Symbol](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Death_Symbol\output\death_Graham_Bell.jpg)
 
 ### Grayscale Gradiant
-![Grayscale Gradiant](Grayscale_Gradiant\output\gradiant_image.jpg)
+![Grayscale Gradiant](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Grayscale_Gradiant\output\gradiant_image.jpg)
 
 ### Image Inversion
-![Image Inversion](Image_Inversion\output\woman.jpg)
+![Image Inversion](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Image_Inversion\output\woman.jpg)
 
 ### Image Rotation
-![Image Rotation](Image_Rotation\output\rotate.jpg)
+![Image Rotation](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Image_Rotation\output\rotate.jpg)
