@@ -52,7 +52,7 @@ cd ..
 ## Result
 
 ### Chess Board
-![Chess Board](Chess_Board\output\chess-board.jpg)
+![Chess Board](https://github.com/SajjadSaljoghi/image_processing/blob/main/assignment1/Chess_Board/output/chess-board.jpg)
 
 ### Create S Letter
 ![Create S Letter](Create_S_Letter\output\first_letter_my_name.jpg)
